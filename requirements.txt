@@ -1,2 +1,2 @@
-numpy==1.15.4
-pandas==0.22.0
+flake8==3.3.0
+pytest==3.4.2
