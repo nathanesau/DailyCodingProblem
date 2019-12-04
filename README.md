@@ -1,6 +1,6 @@
 # DailyCodingProblem
 
-Python solutions to Daily Coding Problem.
+Python solutions to some of the [Daily Coding Problem](https://www.dailycodingproblem.com/) questions.
 
 The solutions and problem descriptions are in ``src`` folder.
 
