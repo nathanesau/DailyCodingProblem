@@ -1,5 +1,8 @@
 # DailyCodingProblem
-Python solutions to Daily Coding Problem
+
+Python solutions to Daily Coding Problem.
+
+The solutions and problem descriptions are in ``src`` folder.
 
 ## Workflow
 
